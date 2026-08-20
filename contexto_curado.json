@@ -1,0 +1,34 @@
+{
+  "perfil_usuario": {
+    "esporte": "basquete",
+    "nivel": "iniciante",
+    "objetivo": [
+      "melhorar arremesso",
+      "melhorar drible"
+    ],
+    "tempo_disponivel_minutos": 40
+  },
+  "tarefas": [
+    {
+      "nome": "Aquecimento e mobilidade",
+      "duracao_minutos": 5,
+      "prioridade": "alta"
+    },
+    {
+      "nome": "Treino de drible e controle de bola",
+      "duracao_minutos": 15,
+      "prioridade": "alta"
+    },
+    {
+      "nome": "Treino de arremessos",
+      "duracao_minutos": 15,
+      "prioridade": "alta"
+    },
+    {
+      "nome": "Alongamento final",
+      "duracao_minutos": 5,
+      "prioridade": "baixa"
+    }
+  ],
+  "solicitacao": "Crie a rotina de hoje para este usuário, respeitando o tempo disponível e priorizando as tarefas mais importantes."
+}
