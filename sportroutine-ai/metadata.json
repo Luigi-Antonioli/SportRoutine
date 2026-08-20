@@ -1,0 +1,6 @@
+{
+  "name": "SportRoutine AI",
+  "description": "Assistente inteligente para criação, organização e adaptação de rotinas esportivas personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

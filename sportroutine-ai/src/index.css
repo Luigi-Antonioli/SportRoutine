@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@theme {
+  --font-space: 'Space Grotesk', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+  --color-sport-bg: #0B0D0F;
+  --color-sport-panel: #14171B;
+  --color-sport-panel-hover: #1B1F24;
+  --color-sport-line: #262B31;
+  --color-sport-accent: #C6FF3D;
+  --color-sport-accent-dim: #7FA324;
+  --color-sport-warn: #FF5C35;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0B0D0F;
+}
+::-webkit-scrollbar-thumb {
+  background: #262B31;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3A414A;
+}
+
+html {
+  color-scheme: dark;
+}
+
