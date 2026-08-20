@@ -205,19 +205,7 @@ As chamadas realizadas durante os testes foram registradas abaixo.
 
 ---
 
-## 6. Dashboard / Logs
-
-Os valores de tokens utilizados nas chamadas foram obtidos por meio do Google AI Studio.
-
-### Evidências
-
-![Dashboard / Logs](./evidencias/dashboard.png)
-
-Os registros apresentados no dashboard/log são utilizados como evidência para os valores apresentados na tabela de chamadas.
-
----
-
-## 7. URL publicada
+## 6. URL publicada
 
 O projeto será disponibilizado em uma URL pública.
 
@@ -225,7 +213,7 @@ O projeto será disponibilizado em uma URL pública.
 
 ---
 
-## 8. Integrantes
+## 7. Integrantes
 
 | Nome | RA |
 |---|---|
