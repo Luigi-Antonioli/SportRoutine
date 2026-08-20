@@ -191,11 +191,11 @@ As chamadas realizadas durante os testes foram registradas abaixo.
 
 | # | Chamada | Tokens de entrada | Tokens de saída | Custo estimado |
 |---|---|---:|---:|---:|
-| 1 | Few-shot — Exemplo 1 | 703 | 495 | A calcular |
-| 2 | Few-shot — Exemplo 2 | 686 | 473 | A calcular |
-| 3 | Contexto completo | 862 | 491 | A calcular |
-| 4 | Contexto curado | 610 | 441 | A calcular |
-| **Total** | | **2.861** | **1.900** | **A calcular** |
+| 1 | Few-shot — Exemplo 1 | 703 | 495 | US$ 0,0023835 |
+| 2 | Few-shot — Exemplo 2 | 686 | 473 | US$ 0,00228825 |
+| 3 | Contexto completo | 862 | 491 | US$ 0,00248775 |
+| 4 | Contexto curado | 610 | 441 | US$ 0,00211125 |
+| **Total** | | **2.861** | **1.900** | **US$ 0,00927075** |
 
 ### Total de tokens da sessão
 
