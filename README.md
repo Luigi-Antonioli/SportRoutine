@@ -209,7 +209,7 @@ As chamadas realizadas durante os testes foram registradas abaixo.
 
 O projeto será disponibilizado em uma URL pública.
 
-**URL:** [INSERIR URL AQUI]
+**URL:** [https://sportroutine-ai.ai.studio]
 
 ---
 
