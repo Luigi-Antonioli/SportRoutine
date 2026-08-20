@@ -201,8 +201,6 @@ As chamadas realizadas durante os testes foram registradas abaixo.
 
 **4.761 tokens**
 
-> O custo estimado será preenchido posteriormente com base nos valores de cobrança correspondentes ao modelo utilizado.
-
 ---
 
 ## 6. URL publicada
