@@ -1,0 +1,38 @@
+{
+  "informacoes_esporte": {
+    "esporte": "basquete",
+    "descricao": "O basquetebol ou basquete é um esporte coletivo inventado em dezembro de 1891 pelo professor de educação física canadense James Naismith no Springfield College em Massachusetts, Estados Unidos. O objetivo do jogo é introduzir a bola no cesto da equipe adversária e evitar que a outra equipe obtenha a posse de bola ou pontue. A quadra oficial de basquete da FIBA possui 28 metros de comprimento por 15 metros de largura, com a tabela posicionada a uma altura de 3,05 metros do chão. Cada cesta convertida pode valer 1, 2 ou 3 pontos dependendo da distância do arremesso em relação à linha dos três pontos. Os fundamentos do esporte englobam o drible com uma das mãos, o passe de peito ou picado, o rebote ofensivo/defensivo e as técnicas de bandeja e arremesso em suspensão (jump)."
+  },
+  "perfil_usuario": {
+    "esporte": "basquete",
+    "nivel": "iniciante",
+    "objetivo": [
+      "melhorar arremesso",
+      "melhorar drible"
+    ],
+    "tempo_disponivel_minutos": 40
+  },
+  "tarefas": [
+    {
+      "nome": "Aquecimento e mobilidade",
+      "duracao_minutos": 5,
+      "prioridade": "alta"
+    },
+    {
+      "nome": "Treino de drible e controle de bola",
+      "duracao_minutos": 15,
+      "prioridade": "alta"
+    },
+    {
+      "nome": "Treino de arremessos",
+      "duracao_minutos": 15,
+      "prioridade": "alta"
+    },
+    {
+      "nome": "Alongamento final",
+      "duracao_minutos": 5,
+      "prioridade": "baixa"
+    }
+  ],
+  "solicitacao": "Crie a rotina de hoje para este usuário, respeitando o tempo disponível e priorizando as tarefas mais importantes."
+}
