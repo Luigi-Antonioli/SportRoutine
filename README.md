@@ -155,6 +155,7 @@ Arquivo utilizado:
 **Total:** 1.353 tokens
 
 ![Teste com contexto completo](./evidencias/tela2-contextobruto.png)
+![Teste com contexto completo tokens](./evidencias/tela2-respostacontextobruto.png)
 
 ### Contexto curado
 
@@ -167,6 +168,8 @@ Arquivo utilizado:
 **Total:** 1.051 tokens
 
 ![Teste com contexto curado](./evidencias/tela2-contextocurado.png)
+![Teste com contexto curado tokens](./evidencias/tela2-respostacontextocurado.png)
+
 
 ### Comparação
 
